@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Wdy的博客</title>
-  
+  <icon>https://www.gravatar.com/avatar/ab6f17b30baa14ae6f48d1a5483ec85c</icon>
   <subtitle>记录开发的美好</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>wangdingyu</name>
-    
+    <email>285861181@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
